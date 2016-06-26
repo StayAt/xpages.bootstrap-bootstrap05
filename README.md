@@ -4,7 +4,7 @@ The good old successful Notes Discussion Database transferred into a full functi
 
 DOWNLOAD .nsf
 from here as on-disc structure
-https://github.com/StayAtxpages.bootstrap-bootstrap05
+https://github.com/StayAt/xpages.bootstrap-bootstrap05
 
 or the easy way
 http://stayat.org/nsf/Download_04.zip
