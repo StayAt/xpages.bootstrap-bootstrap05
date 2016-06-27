@@ -7,7 +7,7 @@ It's due to them
 <img src="http://StayAt.org/images/plx/openntf_222222_bg.jpg" alt="openntf_222222_bg.jpg">
 Tony McGuckin, Martin Donnelly, Padraic Edwards, Philippe Riand, Niklas Heidloff
 
-<img src="http://StayAt.org/images/plx/IBM+Champ+2016+Social+Business.png" alt="IBM+Champ+2016+Social+Business.png">
+<img src="http://StayAt.org/images/plx/IBM+Champ+2016+Social+Business.png" alt="IBM+Champ+2016+Social+Business.png" hight="55">
 Johnny Oldenburger
 
 after download the toolbox you can explore what is possible with the full functional xpages.bootstrap
