@@ -15,7 +15,7 @@ It's due to them
 <img src="http://StayAt.org/images/plx/K.gif" alt="K.gif" height="55" width="55">
 <a href="https://quintessens.wordpress.com/2014/01/07/using-bootstrap-in-xpages-the-ultimate-incomplete-guide/">Using Bootstrap in XPages – The ultimate incomplete guide</a>
 
-<img src="http://StayAt.org/images/webinar2.jpg" alt="webinar2.jpg" height="55" width="55">
+<img src="http://StayAt.org/images/plx/webinar2.jpg" alt="webinar2.jpg" height="55" width="55">
 <a href="https://xpagesandmore.blogspot.ch/2016/06/demo-database-webinar-expanding-xpages.html">A blogsite about Notes Domino XPages Bluemix and more.</a>
 
 
