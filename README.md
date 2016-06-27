@@ -19,9 +19,14 @@ The good old successful <h3>Notes Discussion Database</h3> transferred into a fu
 
 DOWNLOAD .nsf
 from here as on-disc structure
+
 https://github.com/StayAt/xpages.bootstrap-bootstrap05
+
 https://github.com/StayAt/xpages.bootstrap-bootstrap07
+
 https://github.com/StayAt/xpages.bootstrap-mobAdmin02
 
+
 or the easy way
+
 http://stayat.org/nsf/Download_04.zip
