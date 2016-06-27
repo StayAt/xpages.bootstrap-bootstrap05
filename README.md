@@ -2,6 +2,7 @@ xpages.bootstrap
 the classic IBM Notes Discussion Database as a responsive mobile first design.
 
 this is nether an training example/tutorial nor a copy/past template
+
 It's due to them 
 
 <img src="http://StayAt.org/images/plx/openntf_222222_bg.jpg" alt="openntf_222222_bg.jpg" height="45">
@@ -10,6 +11,13 @@ It's due to them
 
 <img src="http://StayAt.org/images/plx/IBM+Champ+2016+Social+Business.png" alt="IBM+Champ+2016+Social+Business.png" height="55" width="55">
 <a href="https://xpagesandmore.blogspot.ch/p/about-me.html">Johnny Oldenburger</a>
+
+<img src="http://StayAt.org/images/plx/K.gif" alt="K.gif" height="55" width="55">
+<a href="https://quintessens.wordpress.com/2014/01/07/using-bootstrap-in-xpages-the-ultimate-incomplete-guide/">Using Bootstrap in XPages – The ultimate incomplete guide</a>
+
+<img src="http://StayAt.org/images/webinar2.jpg" alt="webinar2.jpg" height="55" width="55">
+<a href="https://xpagesandmore.blogspot.ch/2016/06/demo-database-webinar-expanding-xpages.html">A blogsite about Notes Domino XPages Bluemix and more.</a>
+
 
 after download the toolbox you can explore what is possible with the full functional xpages.bootstrap
 
