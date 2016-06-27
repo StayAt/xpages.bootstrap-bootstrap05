@@ -4,7 +4,7 @@ the classic IBM Notes Discussion Database as a responsive mobile first design.
 this is nether an training example/tutorial nor a copy/past template
 It's due to them 
 
-<img src="http://StayAt.org/images/plx/openntf_222222_bg.jpg" alt="openntf_222222_bg.jpg">
+<img src="http://StayAt.org/images/plx/openntf_222222_bg.jpg" alt="openntf_222222_bg.jpg" height="55">
 Tony McGuckin, Martin Donnelly, Padraic Edwards, Philippe Riand, Niklas Heidloff
 
 <img src="http://StayAt.org/images/plx/IBM+Champ+2016+Social+Business.png" alt="IBM+Champ+2016+Social+Business.png" height="55" width="55">
