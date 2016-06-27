@@ -2,13 +2,20 @@ xpages.bootstrap
 the classic IBM Notes Discussion Database as a responsive mobile first design.
 
 this is nether an training example/tutorial nor a copy/past template
+It's due to them 
+
+<img src="http://StayAt.org/images/plx/openntf_222222_bg.jpg" alt="openntf_222222_bg.jpg">
+Tony McGuckin, Martin Donnelly, Padraic Edwards, Philippe Riand, Niklas Heidloff
+
+<img src="http://StayAt.org/images/plx/IBM+Champ+2016+Social+Business.png" alt="IBM+Champ+2016+Social+Business.png">
+Johnny Oldenburger
 
 after download the toolbox you can explore what is possible with the full functional xpages.bootstrap
 
 The toolbox consists of three databases
 
 # xpages.bootstrap-bootstrap05
-The good old successful <h3>Notes Discussion Database</h3> transferred into a full functional bootstrap design 
+The good old successful Notes Discussion Database transferred into a full functional bootstrap design 
 <img src="http://StayAt.org/images/plx/aDiscussion.gif" alt="aDiscussion.gif">
 
 <h3>A short demonstration of bootstrap carousel</h3> 
