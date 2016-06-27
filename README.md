@@ -1,5 +1,6 @@
 xpages.bootstrap
 the classic IBM Notes Discussion Database as a responsive mobile first design.
+
 this is nether an training example/tutorial nor a copy/past template
 after download the toolbox you can explore what is possible with the full functional xpages.bootstrap
 
